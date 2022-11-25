@@ -9,7 +9,7 @@ function App() {
         <h1> Buscador de CEP</h1>
       </header>
 
-      <div className="containerUnput">
+      <div className="containerInput">
         <input type="text" typeof="text" placeholder="Digite um CEP..." />
         <button className="buttonSearch">Procurar
           <FiSearch size={25} color="#fff" />
